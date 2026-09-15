@@ -49,6 +49,9 @@
       ],
       "expo-secure-store"
     ],
+    "extra": {
+      "apiUrl": "https://crava-backend-g4qo.onrender.com"
+    },
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
